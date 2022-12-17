@@ -1,0 +1,78 @@
+body {
+	background-color: #F9F9F9;
+}
+
+
+.article {
+	background-color: white;
+	max-width: 930px;
+	border: 1px #DFDFDF solid;
+	margin: auto;
+	vertical-align: middle;
+} 
+
+
+.story-top {
+	font-family: "Times New Roman", Times, serif;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: 0px;
+}
+
+
+.story-top h1 {
+	font-size: 43px;
+	margin-bottom: 15px;
+	padding-right: 20px;
+}
+
+
+.timestamp {
+	color: #767676;
+	font-size: 12px;
+}
+
+
+.byline {
+	color: #5076b8;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.lead-image {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: 0px;
+	vertical-align: middle;
+	size: 50px;
+}
+
+
+.lead-image {
+	max-width: 700px;
+	margin-top: 5px;
+}
+
+.story-text {
+	font-family: "Georgia", serif;
+	font-size: 15px;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: 0px;
+}
+
+.story-text p {
+	max-width: 700px;
+}
+
+
+.second-image {
+	max-width: 800px;
+	margin-left: 0px;
+	margin-right: 0px;
+	vertical-align: middle;
+	size: 50px;
+	max-width: 700px;
+	margin-top: 5px;
+}
+
